@@ -1,6 +1,6 @@
 # Riverdale Nails Spa
 
-A responsive website for a fictional nail salon created using HTML and CSS.
+This project is a website I created based on a printed menu from Riverdale Nails Spa. The goal was to practice converting business information into a responsive, multi-page website using HTML and CSS. This project is for educational and portfolio purposes and is not the salon's official website.
 
 ## Features
 
